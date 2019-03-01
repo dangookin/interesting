@@ -2,7 +2,7 @@
 
 int main()
 {
-	int fibo,nacci;
+    int fibo,nacci;
 
     fibo = nacci = 1;
 
