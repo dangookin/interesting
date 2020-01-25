@@ -1,3 +1,8 @@
+/*
+ * Dan Gookin
+ * https://c-for-dummies.com
+ * January, 2020
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
